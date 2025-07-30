@@ -37,7 +37,7 @@ Here’s an example of the predictor in action:
 
 ![Sign Detection Demo](./result.png)
 
-> *Filename: `ditect.jpg` (please ensure this file is correctly spelled and placed at the root of your repo).*
+
 
 ---
 
